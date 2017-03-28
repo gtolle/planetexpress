@@ -79,6 +79,6 @@ And, you can try following Kerbal Space Program tutorials and videos too. Rest a
 
 There's still so much more to build (saving your game, refueling, missions, real terrain, real sky, aerodynamics, RCS, etc) but I've spent many hours flying around the solar system already.
 
-Plus, it's optimized for playing one-handed in portait mode, so you can play it while you ride the train!
+Plus, it's optimized for playing one-handed in portrait mode, so you can play it while you ride the train!
 
 
