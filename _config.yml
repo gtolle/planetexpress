@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Planet Express
-description: Planet Express is a full-3D spaceflight game for iOS (iPhone and iPad) with real physics. Think "the flying parts of Kerbal Space Program, but on iOS".
+description: Planet Express is a full-3D spaceflight game for iOS (iPhone and iPad) with real physics. Think "the flying parts of Kerbal Space Program, but on iOS". It's currently in early alpha development, but you can fly around the solar system in a sandbox. You can launch, get into Earth orbit, rendezvous with the ISS, fly to the Moon and back, leave Earth orbit and enter Sun orbit, rendezvous with Mars or Venus or any other planet, and land again.
+
