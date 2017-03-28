@@ -1,16 +1,16 @@
 ![Image](images/launch-screen.png)
 
-## Exploring the Solar System
+# Exploring the Solar System
 
 ![Image](images/orbiting-jupiter.png)
 ![Image](images/mars-to-phobos.png)
 ![Image](images/orbiting-venus.jpg)
 
-## Rendezvous with the ISS
+# Rendezvous with the ISS
 
 ![Image](images/iss-encounter.png)
 
-## A Trip to the Moon
+# A Trip to the Moon
 
 ![Image](images/1-launch-orbit.png)
 ![Image](images/2-orbit-burn.png)
