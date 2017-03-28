@@ -61,6 +61,16 @@ When you're within 35km of a planet or moon, the yellow velocity vector automati
 
 When you're within 35km of a non-planet target like the ISS, the yellow velocity vector automatically switches so it's relative to the target. This helps with your rendezvous, so you can cancel out your relative velocity and go the same speed as the target.
 
+# Orbit Map
+
+The orbits are gray, your orbit is blue, and your target's orbit is green.
+
+Your apoapsis is shown with a cyan line, and your periapsis is shown with an orange line.
+
+The ascending node line is gray, and the descending node line is brown.
+
+Maybe I'll do markers instead at some point, but the lines are pretty clear once you get used to the colors.
+
 # Going deeper
 
 There are currently 3 training missions that you can use to practice getting into orbit.
