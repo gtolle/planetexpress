@@ -1,8 +1,8 @@
-![Image](images/launch-screen.png =250x)
+![Image](images/launch-screen.png)
 
 ## Exploring the Solar System
 
-![Image](images/orbiting-jupiter.png =250x)
+![Image](images/orbiting-jupiter.png)
 ![Image](images/mars-to-phobos.png)
 ![Image](images/orbiting-venus.jpg)
 
