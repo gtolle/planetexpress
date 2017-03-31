@@ -1,7 +1,7 @@
 <center>
 <a href="https://goo.gl/forms/29PUQ9Ed8U4wjQQk2">Sign Up to Try Planet Express</a>
 <br><br>
-<center>
+</center>
 
 ![Image](images/launch-screen.png)
 
