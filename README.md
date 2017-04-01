@@ -23,8 +23,10 @@
 ![Image](images/5-approaching-moon.png)
 ![Image](images/6-moon-hyperbolic-orbit.png)
 ![Image](images/7-burning-retrograde.png)
-<a name="howtofly"></a>
 ![Image](images/8-moon-elliptical-orbit.png)
+
+<a name="howtofly"></a>
+<br><br><br><br>
 
 # So, how do I fly?
 
