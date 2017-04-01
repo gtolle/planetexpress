@@ -1,5 +1,7 @@
 [Sign Up to Try Planet Express](https://goo.gl/forms/29PUQ9Ed8U4wjQQk2)
 
+[Read More About How To Fly](#howtofly)
+
 ![Image](images/launch-screen.png)
 
 # Exploring the Solar System
@@ -22,6 +24,8 @@
 ![Image](images/6-moon-hyperbolic-orbit.png)
 ![Image](images/7-burning-retrograde.png)
 ![Image](images/8-moon-elliptical-orbit.png)
+
+<a name="howtofly"></a>
 
 # So, how do I fly?
 
@@ -51,11 +55,11 @@ Instead of a navball, the orbital navigation uses a "heads-up display" centered 
 
 The ship is pointing towards the green line. Depending on what you want to do, you can rotate your ship to line it up with one of these other vectors:
 
-* Your prograde velocity vector is the yellow line (use this to raise or lower your apoapsis or periapsis!)
-* The normal vector is magenta (use this for plane changes!)
-* The radial vector is turquoise (use this to rotate your orbit!).
+* The yellow line is the direction your rocket is moving, also called your "velocity" vector or "prograde" vector. Point your ship in this direction and turn on your engine to expand your orbit.
+* The magenta line is perpendicular "up" from the direction your rocket is moving, also called your "normal" vector. Point your ship in this direction and turn on your engine to change your orbit's inclination.
+* The cyan line is perpendicular "in" from the direction your rocket is moving, also called your "radial" vector. Point your ship in this direction and turn on your engine to rotate your orbit.
 
-If you want to burn retrograde, anti-normal, or anti-radial, just point the back of your ship toward the line instead.
+If you want to burn retrograde, anti-normal, or anti-radial, just point the back of your ship toward the line instead and turn on your engine.
 
 Each body also has a "heads-up display" label, so you can see where it is even when it's too far to actually see. When you've tapped a body to make it your target, you can see the target vector as a purple line as well.
 
@@ -67,7 +71,7 @@ When you're within 35km of a non-planet target like the ISS, the yellow velocity
 
 The orbits are gray, your orbit is blue, and your target's orbit is green.
 
-Your apoapsis is shown with a cyan line, and your periapsis is shown with an orange line.
+Your apoapsis is shown with a turquoise line, and your periapsis is shown with an orange line.
 
 The ascending node line is gray, and the descending node line is brown.
 
